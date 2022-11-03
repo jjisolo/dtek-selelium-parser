@@ -1,4 +1,4 @@
-# DTEK slenium parser
+# DTEK selenium parser
 
 Quick-written program to to gather the data from https://www.dtek-kem.com.ua/ua/shutdowns.
 
